@@ -1,4 +1,9 @@
-## Hi there 👋
+# sheredia27
+
+
+Current Sophomore at Binghamton University
+
+Currently Learning Some Video Editing and Linux
 
 <!--
 **sheredia27/sheredia27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
